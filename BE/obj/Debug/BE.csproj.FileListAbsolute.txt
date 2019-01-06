@@ -1,0 +1,76 @@
+D:\USERS\OWNER\Desktop\חלק א פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+D:\USERS\OWNER\Desktop\חלק א פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+D:\USERS\OWNER\Desktop\חלק א פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+D:\USERS\OWNER\Desktop\חלק א פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+D:\USERS\OWNER\Desktop\חלק א פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.dll
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\BE\bin\Debug\BE.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.dll
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\BE\obj\Debug\BE.pdb

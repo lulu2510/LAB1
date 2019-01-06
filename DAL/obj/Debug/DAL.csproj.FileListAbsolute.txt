@@ -1,0 +1,127 @@
+D:\USERS\OWNER\Desktop\חלק א פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.dll
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.pdb
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.dll
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.dll
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.pdb
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.pdb
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.dll
+F:\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.pdb
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.dll
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.pdb
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.dll
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.dll
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.pdb
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.pdb
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.dll
+Z:\מיני פרוייקט\חלק א פרוייקט\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.dll
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.dll
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.pdb
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.pdb
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.pdb
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.dll
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.pdb
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.dll
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.dll
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.pdb
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.pdb
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.dll
+D:\פרוייקט עדכני\חלק א פרוייקט ישן ישן\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.pdb
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.dll
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.pdb
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.dll
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.dll
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.pdb
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.pdb
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.dll
+D:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.pdb
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.dll
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.pdb
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.dll
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.dll
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.pdb
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.pdb
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.dll
+F:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.pdb
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.dll
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.pdb
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.dll
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.dll
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.pdb
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.pdb
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.dll
+E:\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\פרוייקט עדכני\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.pdb
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.dll
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.pdb
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.dll
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.dll
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.pdb
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.pdb
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.dll
+D:\USERS\OWNER\Desktop\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.pdb
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.dll
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.pdb
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.dll
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.dll
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.pdb
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.pdb
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.dll
+F:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.dll
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.dll
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.pdb
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.dll
+E:\תבונה שנה ב סמסטר ב\C#\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\פרוייקט עדכני\dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.pdb
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.dll
+E:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.dll
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\bin\Debug\DAL.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.dll
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.dll
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\bin\Debug\BE.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\bin\Debug\DS.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.dll
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.pdb
+F:\תבונה שנה ב סמסטר ב\C#\ש.ב\dish-dotNet5776_Project01_8501_8622\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
